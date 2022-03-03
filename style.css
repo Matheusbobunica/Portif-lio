@@ -401,9 +401,9 @@ header{
     letter-spacing: .1;
     font-size: 1.0rem;
     text-transform: uppercase;
-    background: #f12711;
-    background: -webkit-linear-gradient(to right, #f5af19, #f12711);
-    background: linear-gradient(to right, #f5af19, #f12711);
+    background: #0F2027; 
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
     padding: 1rem 2rem;
     border: none;
     border-radius: 6px;
